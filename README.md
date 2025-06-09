@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti-pandit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=debjyoti-pandit&icon=0&color=7)](https://visitcount.itsvg.in)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=debjyoti-pandit.debjyoti-pandit&title=Profile%20Views&style=flat&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
