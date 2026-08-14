@@ -1,18 +1,116 @@
-# 💫 About Me:
-👋 Hi, I’m Debjyoti Pandit (@debjyoti-pandit)<br>👀 I’m interested in exploring new technologies and designing and building full-fledged applications.<br>🌱 I’m currently learning Python, golang, and system design.<br>💞️ I’m looking to collaborate and contribute to any challenging backend application development along with its architectural designs and planning.<br>📫 Reach me @debjyotipandit35@gmail.com
+<!-- ╔══════════════════════════════════════════════════════════╗
+     ║   Hi there! This README is auto-animated ✨              ║
+     ║   github.com/debjyoti-pandit                             ║
+     ╚══════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debjyotipandit) 
+<!-- Animated wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Debjyoti%20Pandit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=55&descSize=18" width="100%"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debjyoti-pandit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=debjyoti-pandit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti-pandit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Typing animation -->
+<a href="https://github.com/debjyoti-pandit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+full-fledged+applications+%F0%9F%9A%80;Backend+Engineering+%7C+System+Design;Python+%E2%80%A2+TypeScript+%E2%80%A2+Go;Always+exploring+new+technologies+%F0%9F%94%AD" alt="Typing SVG" />
+</a>
 
----
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=debjyoti-pandit.debjyoti-pandit&title=Profile%20Views&style=flat&color=blue)
+<br/>
 
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/debjyotipandit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:debjyoti35@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/debjyoti-pandit"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=debjyoti-pandit&style=for-the-badge&color=38bdae" alt="Profile views"/>
 
+</div>
+
+## 🧑‍🚀 About Me
+
+```python
+class Debjyoti:
+    def __init__(self):
+        self.role      = "Senior Software Engineer @ SaaSLabs"
+        self.location  = "Noida, India 🇮🇳"
+        self.focus     = ["Backend Development", "System Design", "Architecture"]
+        self.learning  = ["Go", "Distributed Systems"]
+        self.fun_fact  = "I debug with print statements and I'm not ashamed 🖨️"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something great.")
+```
+
+- 🔭 Currently working on scalable backend systems at **SaaSLabs**
+- 🌱 Deep-diving into **Go, Python & System Design**
+- 💬 Ask me about **FastAPI, Node.js, PostgreSQL, Redis, Docker, K8s**
+- 📸 When not coding → **Photography & video editing** (Lightroom + Premiere Pro)
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,bash&theme=dark" />
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql&theme=dark" />
+
+### Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,postman&theme=dark" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=debjyoti-pandit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti-pandit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=debjyoti-pandit&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=debjyoti-pandit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true" width="95%"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=debjyoti-pandit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debjyoti-pandit/debjyoti-pandit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debjyoti-pandit/debjyoti-pandit/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/debjyoti-pandit/debjyoti-pandit/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<!-- Animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+<sub>⭐️ From <a href="https://github.com/debjyoti-pandit">debjyoti-pandit</a> — crafted with caffeine ☕ and curiosity 🔭</sub>
+
+</div>
