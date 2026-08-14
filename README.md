@@ -6,11 +6,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Debjyoti%20Pandit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Debjyoti%20Pandit&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Staff%20Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20System%20Design%20%E2%80%A2%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/debjyoti-pandit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Building+full-fledged+applications+%F0%9F%9A%80;Backend+Engineering+%7C+System+Design;Python+%E2%80%A2+TypeScript+%E2%80%A2+Go;Always+exploring+new+technologies+%F0%9F%94%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Staff+Software+Engineer+%40+SaaSLabs;Backend+%E2%80%A2+System+Design+%E2%80%A2+AI+Agents;Python+%E2%80%A2+TypeScript+%E2%80%A2+NestJS+%E2%80%A2+FastAPI;Always+exploring+new+technologies+%F0%9F%94%AD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,10 +28,12 @@
 ```python
 class Debjyoti:
     def __init__(self):
-        self.role      = "Senior Software Engineer @ SaaSLabs"
+        self.role      = "Staff Software Engineer @ SaaSLabs"
         self.location  = "Noida, India 🇮🇳"
-        self.focus     = ["Backend Development", "System Design", "Architecture"]
-        self.learning  = ["Go", "Distributed Systems"]
+        self.focus     = ["Backend Development", "System Design", "AI Agents"]
+        self.python    = "my go-to language — ~10 years 💚"
+        self.js_ts     = "6 years — FE first, now deep in BE (Express, NestJS)"
+        self.java      = "worked 6 years back — can pace up whenever required ☕"
         self.fun_fact  = "I debug with print statements and I'm not ashamed 🖨️"
 
     def say_hi(self):
@@ -39,25 +41,57 @@ class Debjyoti:
 ```
 
 - 🔭 Currently working on scalable backend systems at **SaaSLabs**
-- 🌱 Deep-diving into **Go, Python & System Design**
-- 💬 Ask me about **FastAPI, Node.js, PostgreSQL, Redis, Docker, K8s**
+- 🌱 Deep-diving into **System Design & AI agent engineering**
+- 💬 Ask me about **FastAPI, Node.js, NestJS, Python, Redis, Docker, K8s & System Design**
 - 📸 When not coding → **Photography & video editing** (Lightroom + Premiere Pro)
+- 🎮 Or gaming on my **RTX 5070 Ti** rig
+- 🏍️ Or out riding — proud owner of **2 bikes**
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,bash&theme=dark" />
+
+| Language | The journey so far |
+|:---:|:---|
+| 🐍 **Python** | My go-to for **~10 years** — **FastAPI** these days, Flask + Flask-RESTX earlier |
+| ⚡ **JS / TS** | **6 years** — started on the frontend, now extensively backend with **Express & NestJS** |
+| ☕ **Java** | Worked with it 6 years back — can pace up quickly whenever required |
 
 ### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs,express,nodejs,flask,graphql&theme=dark" />
 
 ### Databases & Caching
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&theme=dark" />
 
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,githubactions,postman&theme=dark" />
+
+</div>
+
+## 🤖 AI Engineering
+
+Beyond backend — I build **LLM-powered systems**: agent loops, harnesses and eval pipelines, not just prompts.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_Engineering-203a43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Loop_Engineering-2c5364?style=for-the-badge" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Graph_%2F_Harness_Engineering-2c5364?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fleet_%2B_Eval_Engineering-203a43?style=for-the-badge" />
 
 </div>
 
@@ -66,23 +100,19 @@ class Debjyoti:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=debjyoti-pandit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjyoti-pandit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=debjyoti-pandit&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" />
+<img height="170" src="https://streak-stats.demolab.com?user=debjyoti-pandit&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdae&fire=38bdae&currStreakLabel=38bdae" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjyoti-pandit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true" width="95%"/>
 
-</div>
+<br/><br/>
 
-## 🏆 GitHub Trophies
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debjyoti-pandit&theme=tokyonight" width="95%"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=debjyoti-pandit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debjyoti-pandit&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
