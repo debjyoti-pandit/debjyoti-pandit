@@ -99,10 +99,6 @@ Beyond backend — I build **LLM-powered systems**: agent loops, harnesses and e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=debjyoti-pandit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae&count_private=true&include_all_commits=true" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=debjyoti-pandit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true" width="95%"/>
 
 <br/><br/>
